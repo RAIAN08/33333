@@ -1,1 +1,4 @@
-# 33333
+# Method
+
+
+![image](figure2.png)
